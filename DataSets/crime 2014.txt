@@ -1,0 +1,36 @@
+STATE/UT, ROBBERY, RIOTS, ARSON, DOWRY DEATH 
+Andhra Pradesh ,433, 1013, 450, 215
+Arunachal Pradesh, 61, 33, 39, 1
+Assam ,1038, 2640, 743, 188 
+Bihar ,1600 ,13566 ,517, 1373
+Chhattisgarh, 405 ,809 ,297 ,128
+Goa ,32, 133 ,41, 0
+Gujarat ,1209 ,1354 ,217, 23
+Haryana, 874,1944, 203, 293
+Himachal Pradesh, 16 ,478 ,97, 1
+Jammu & Kashmir, 89, 1527, 159, 5
+Jharkhand ,521 ,1975, 94, 350 
+Karnataka ,2516, 6520, 484, 313
+Kerala ,869 ,5820, 453, 28
+Madhya Pradesh, 1969, 1850 ,865, 733
+Maharashtra, 9466, 7760, 1180 ,279
+Manipur, 7 ,101, 43, 1
+Meghalaya,97, 8, 38, 1
+Mizoram, 6, 0, 22, 0
+Nagaland, 38 ,10, 7 ,0
+Odisha ,1828, 1732, 477, 441 
+Punjab ,157, 0, 63, 90
+Rajasthan, 1301 ,536, 523, 408
+Sikkim ,13, 81, 40, 0 
+Tamil Nadu ,1969, 2784, 675, 95
+Tripura, 43, 92, 59, 33 
+Uttar Pradesh, 3920, 6438, 250, 2469
+Uttarakhand, 155, 466, 8 ,38 
+West Bengal, 587, 5345, 544, 501
+A & N Islands, 2, 10, 5, 3 
+Chandigarh, 65, 33, 13, 2 
+D&N Haveli, 2 ,6, 5, 0 
+Daman & Diu, 5 ,4, 0, 0 
+Delhi,6464 ,160 ,190 ,153 
+Lakshadweep, 0 ,9, 5, 0 
+Puducherry ,6 ,39, 1, 1 ,1
